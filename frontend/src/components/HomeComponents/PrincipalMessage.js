@@ -7,7 +7,7 @@ const PrincipalMessage = () => {
         <div className='PrincipalMessage'>
             <div className='princialImgAndName'>
                 <img className='prpImg' src={profileImg} alt="Commissioner's Image" />
-                <h3 className='prpName'>{"<principal Name>"}, <span>PHD</span></h3>
+                <h3 className='prpName'>{"Dr. Janardhan Rao"}, <span>PHD</span></h3>
                 <p className='prpRole'>Principal</p>
             </div>
 
