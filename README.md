@@ -200,8 +200,3 @@ Licensed under the **ISC License**. See `LICENSE` for details.
 
 ---
 
-## Want me to improve further?
-
-I cleaned and hardened this README. If you want: screenshots, live demo badge, and CI snippets (GitHub Actions) — tell me which hosting (Vercel/Netlify/GH Pages) and provide demo URL or screenshots and I’ll drop them in.
-
-*End of README.*
