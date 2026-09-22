@@ -84,7 +84,6 @@ npm run start --prefix frontend
 npm run start-frontend
 ```
 
-Open [http://localhost:3000](http://localhost:3000)
 
 **Notes**
 
